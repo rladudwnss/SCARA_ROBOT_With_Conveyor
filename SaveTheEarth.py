@@ -1,4 +1,3 @@
-#파이썬 씨발마지막코드
 import tensorflow.keras
 import cv2  # opencv
 import numpy as np  # 영상을 다루기 위해 배열 numpy
